@@ -1,0 +1,29 @@
+.header-background {
+  background-color: black;
+  color: white;
+  height: 20px;
+  padding: 20px;
+}
+
+.ui.topmenu.menu {
+  height: 50px;
+  margin-top: inherit;
+  margin-bottom: inherit;
+  background-color: transparent;
+}
+
+.footer-background {
+  padding: 20px;
+  background-color: black;
+  color: #999;
+  height: 300px;
+}
+
+h3 {
+  color: white;
+}
+
+a {
+  color: #999;
+}
+
