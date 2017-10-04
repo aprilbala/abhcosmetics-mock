@@ -1,14 +1,21 @@
 .header-background {
   background-color: black;
   color: white;
-  height: 20px;
+  height: 30px;
   padding: 20px;
 }
 
-.ui.topmenu.menu {
-  height: 50px;
+.ui.borderless.topmenu.menu {
+  height: 70px;
   margin-top: inherit;
   margin-bottom: inherit;
+  margin-left: inherit;
+  color: #999999;
+}
+
+.ui.cards {
+  height: 250px;
+  margin: inherit;
   background-color: transparent;
 }
 
